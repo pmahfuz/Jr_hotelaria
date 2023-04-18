@@ -18,7 +18,7 @@ Para executar o código, siga as instruções abaixo:
 
 1. Clone este repositório em seu computador
 2. Instale as dependências necessárias (Pandas, Matplotlib, Seaborn, Numpy e Sklearn)
-3. Execute o script "analise_dados.py" na sua IDE de preferência
+3. Execute o script "Analise-base.ipynb" na sua IDE de preferência
 
 ## Autores
 
