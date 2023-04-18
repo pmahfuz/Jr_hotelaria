@@ -20,6 +20,6 @@ Para executar o código, siga as instruções abaixo:
 2. Instale as dependências necessárias (Pandas, Matplotlib, Seaborn, Numpy e Sklearn)
 3. Execute o script "analise_dados.py" na sua IDE de preferência
 
-## Autor
+## Autores
 
 Este projeto foi desenvolvido por Luigi Orlandi, Pedro Mahfuz e Theo Decourt.
